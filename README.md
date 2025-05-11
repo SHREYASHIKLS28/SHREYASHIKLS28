@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### 👩‍💻 **About Me**
 
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
 - 🌐 **Upcoming Web Development Intern at Proxenix**  
