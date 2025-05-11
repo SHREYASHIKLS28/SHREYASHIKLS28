@@ -45,8 +45,8 @@
 - **[Portfolio Website](https://github.com/shreyashidebroy/portfolio)**  
   *A sleek portfolio showcasing my skills, projects, and achievements.*
   
-- **[Chatbot (Local)](https://github.com/shreyashidebroy/local-chatbot)**  
-  *A Python-based chatbot that runs locally on your system with interactive CLI functionality.*
+- **[Nova Chatbot (Local)](https://github.com/shreyashidebroy/local-chatbot)**  
+  *Locally run chatbot powered by WebLLM, built with React and Vite for seamless interactions.*
 
 - **[AI Image Enhancer](https://github.com/shreyashidebroy/ai-image-enhancer)**  
   *Enhances image resolution and quality using cutting-edge deep learning models.*
