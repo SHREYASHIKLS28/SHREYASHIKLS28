@@ -10,9 +10,9 @@
 ### 👩‍💻 **About Me**
 
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
-- 🌐 **Upcoming Web Development Intern at Proxenix**  
-- 📊 **Ex-Data Analyst Intern at To-Let Globe (2024)**  
-- 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd**  
+- 🌐 **Upcoming Web Development Intern at Proxenix (2025)**
+- 📊 **Ex-Data Analyst Intern at To-Let Globe (July 2024- September 2024)**  
+- 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd (August 2023-January 2024)**
 - 🐾 Currently building **PawBuddy** – An all-in-one pet care app with some innovative features
 - 💡 **Exploring:** Full-Stack Web Development, Cloud Computing, DevOps, AI/ML  
 - 💬 **Ask me about:** DBMS, OS, OOPS, Linux, React, Node.js, Cloud Technologies  
