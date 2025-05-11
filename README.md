@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyashi Deb Roy</h1>
-<h3 align="center">A Passionate CSE Student | Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Hello 👋, I'm Shreyashi Deb Roy</h1>
+<h3 align="center">CSE Student | Web Developer | AI/ML Enthusiast | Cloud and DevOps Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashidebroy&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashidebroy" />
@@ -7,18 +7,18 @@
 
 ---
 
-🌟 **About Me**
+### 👨‍💻 **About Me**
 
-- 🎓 BTech CSE | VIT Vellore, 3rd Year  
-- 🌐 Upcoming Web Development Intern at **Proxenix**  
-- 🐾 Currently working on **PawBuddy** – A smart pet care app with live video streaming, activity monitoring, health reminders, and emergency contact access for holistic pet well-being  
-- 💡 Exploring **Full-Stack Web Development**, **Cloud Computing**, and **DevOps**
-- 💬 Ask me about: **DBMS, OS, OOPS, Linux, React, Node.js**
-- 📫 Reach me at: [shreyashioff28@gmail.com](mailto:shreyashioff28@gmail.com)
+- 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
+- 🌐 **Web Development Intern at Proxenix**  
+- 🐾 Currently building **PawBuddy** – An all-in-one pet care app with features like live video streaming, activity tracking, health reminders, and emergency contacts to ensure your pet’s well-being.  
+- 💡 **Exploring:** Full-Stack Web Development, Cloud Computing, DevOps, AI/ML  
+- 💬 **Ask me about:** DBMS, OS, OOPS, Linux, React, Node.js, Cloud Technologies  
+- 📧 **Reach me at:** [shreyashioff28@gmail.com](mailto:shreyashioff28@gmail.com)
 
 ---
 
-🛠️ **Languages & Tools**
+### 🛠️ **Technologies & Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,aws,mysql,python,js,html,css,github,figma,linux" />
@@ -26,7 +26,7 @@
 
 ---
 
-📈 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyashidebroy&show_icons=true&theme=radical" />
@@ -35,31 +35,31 @@
 
 ---
 
-🚀 **Featured Projects**
+### 🚀 **Featured Projects**
 
-- 🧑‍💻 [**Portfolio Website**](https://github.com/shreyashidebroy/portfolio)  
-  *Personal portfolio showcasing skills, projects, and achievements.*
+- **[Portfolio Website](https://github.com/shreyashidebroy/portfolio)**  
+  *A sleek portfolio showcasing my skills, projects, and achievements.*
+  
+- **[Chatbot (Local)](https://github.com/shreyashidebroy/local-chatbot)**  
+  *A Python-based chatbot that runs locally on your system with interactive CLI functionality.*
 
-- 💬 [**Chatbot (Local)**](https://github.com/shreyashidebroy/local-chatbot)  
-  *A Python-based chatbot running locally on your system with command-line interaction.*
+- **[AI Image Enhancer](https://github.com/shreyashidebroy/ai-image-enhancer)**  
+  *Enhances image resolution and quality using cutting-edge deep learning models.*
 
-- 🖼️ [**AI Image Enhancer**](https://github.com/shreyashidebroy/ai-image-enhancer)  
-  *Enhances image resolution and quality using deep learning models.*
-
-- 🐾 [**PawBuddy (Ongoing)**](https://github.com/shreyashidebroy/pawbuddy)  
-  *A full-stack pet care platform with features like health reminders, mood tracking, activity monitoring, and emergency contact management.*
-
----
-
-🎯 **Current Goals**
-
-- ☁️ Earn **AWS Certifications**
-- ⚙️ Break into the **DevOps** domain
-- 🧠 Sharpen and **leverage DSA skills** for placements
+- **[PawBuddy (Ongoing)](https://github.com/shreyashidebroy/pawbuddy)**  
+  *An innovative pet care platform with features like health tracking, mood analysis, and emergency contact integration.*
 
 ---
 
-📬 **Connect With Me**
+### 🎯 **Current Goals**
+
+- ☁️ Obtain **AWS Certifications**  
+- ⚙️ Explore and transition into **DevOps**  
+- 🧠 Sharpen **DSA** skills and apply them in problem-solving and competitive coding
+
+---
+
+### 📬 **Let's Connect**
 
 <p>
   <a href="https://www.linkedin.com/in/shreyashidebroy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
