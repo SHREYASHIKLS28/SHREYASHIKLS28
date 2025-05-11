@@ -10,8 +10,10 @@
 ### 👨‍💻 **About Me**
 
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
-- 🌐 **Web Development Intern at Proxenix**  
-- 🐾 Currently building **PawBuddy** – An all-in-one pet care app with features like live video streaming, activity tracking, health reminders, and emergency contacts to ensure your pet’s well-being.  
+- 🌐 **Upcoming Web Development Intern at Proxenix**  
+- 📊 **Ex-Data Analyst Intern at To-Let Globe (2024)**  
+- 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd**  
+- 🐾 Currently building **PawBuddy** – An all-in-one pet care app with some innovative features
 - 💡 **Exploring:** Full-Stack Web Development, Cloud Computing, DevOps, AI/ML  
 - 💬 **Ask me about:** DBMS, OS, OOPS, Linux, React, Node.js, Cloud Technologies  
 - 📧 **Reach me at:** [shreyashioff28@gmail.com](mailto:shreyashioff28@gmail.com)
@@ -22,15 +24,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,aws,mysql,python,js,html,css,github,figma,linux" />
-</p>
-
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyashidebroy&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashidebroy&theme=radical" />
 </p>
 
 ---
@@ -47,7 +40,7 @@
   *Enhances image resolution and quality using cutting-edge deep learning models.*
 
 - **[PawBuddy (Ongoing)](https://github.com/shreyashidebroy/pawbuddy)**  
-  *An innovative pet care platform with features like health tracking, mood analysis, and emergency contact integration.*
+  *A pet care app integrating appointment scheduling, reminders, and more.*
 
 ---
 
@@ -64,6 +57,5 @@
 <p>
   <a href="https://www.linkedin.com/in/shreyashidebroy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:shreyashioff28@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://medium.com/@shreyashidebroy"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" /></a>
-  <a href="https://shreyashidebroy.github.io/"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox" /></a>
+  <a href="https://lighthearted-sopapillas-122813.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox" /></a>
 </p>
