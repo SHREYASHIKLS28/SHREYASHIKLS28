@@ -10,7 +10,6 @@
 ### 👩‍💻 **About Me**
 
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
-- 🌐 **Upcoming Web Development Intern at Proxenix (June 2025)**  
 - 📊 **Ex-Data Analyst Intern at To-Let Globe (July 2024-Sepetember 2024)**  
 - 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd (August 2023-January 2024)**  
 - 🐾 Currently building **PawBuddy** – An all-in-one pet care app with some innovative features
