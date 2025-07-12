@@ -54,6 +54,8 @@
   *A pet care app integrating appointment scheduling, reminders, and more.*
 
 ---
+## 📊 GitHub Stats
+[![Repos](https://img.shields.io/badge/🔒%2020%2B%20Projects-(2%20Private)-blueviolet)](https://github.com/SHREYASHIKLS28?tab=repositories)
 
 ### 🎯 **Current Goals**
 
