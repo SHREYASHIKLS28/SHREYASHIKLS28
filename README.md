@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 **About Me**
-- 👨‍💻 **Project Intern at [Samsung R&D Institute, Bangalore](https://research.samsung.com/sri-b)** (July 2025 – Present)**
+- 👨‍💻 **Project Intern at [Samsung R&D Institute, Bangalore](https://research.samsung.com/sri-b)** (July 2025 – Present)
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
 - 📊 **Ex-Data Analyst Intern at To-Let Globe (July 2024-Sepetember 2024)**  
 - 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd (August 2023-January 2024)**  
