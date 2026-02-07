@@ -12,7 +12,6 @@
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
 - 📊 **Ex-Data Analyst Intern at To-Let Globe (July 2024-Sepetember 2024)**  
 - 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd (August 2023-January 2024)**  
-- 🐾 Currently building **PawBuddy** – An all-in-one pet care app with some innovative features
 - 💡 **Exploring:** Full-Stack Web Development, Cloud Computing, DevOps, AI/ML  
 - 💬 **Ask me about:** DBMS, OS, OOPS, Linux, React, Node.js, Cloud Technologies  
 - 📧 **Reach me at:** [shreyashioff28@gmail.com](mailto:shreyashioff28@gmail.com)
