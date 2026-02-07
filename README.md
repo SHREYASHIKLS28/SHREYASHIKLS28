@@ -12,9 +12,9 @@
 - 🎓 **B.Tech in Computer Science & Engineering** | VIT Vellore (3rd Year)
 - 📊 **Ex-Data Analyst Intern at To-Let Globe (July 2024-Sepetember 2024)**  
 - 🔬 **Ex-Research and Development Intern at Flixdin Pvt Ltd (August 2023-January 2024)**  
-- 💡 **Exploring:** Full-Stack Web Development, Cloud Computing, DevOps, AI/ML  
-- 💬 **Ask me about:** DBMS, OS, OOPS, Linux, React, Node.js, Cloud Technologies  
-- 📧 **Reach me at:** [shreyashioff28@gmail.com](mailto:shreyashioff28@gmail.com)
+- 💡 **Exploring:** Cybersecurity, Cloud Computing, AI/ML  
+- 💬 **Ask me about:** DBMS, OS, OOPS, Networks, Linux, Cloud Technologies  
+- 📧 **Reach me at:** [shreyashiofficial28@gmail.com](mailto:shreyashiofficial28@gmail.com)
 
 ---
 
@@ -49,8 +49,6 @@
 - **[AI Image Enhancer](https://github.com/shreyashidebroy/ai-image-enhancer)**  
   *Enhances image resolution and quality using cutting-edge deep learning models.*
 
-- **[PawBuddy (Ongoing)](https://github.com/shreyashidebroy/pawbuddy)**  
-  *A pet care app integrating appointment scheduling, reminders, and more.*
 
 ---
 ## 📊 GitHub Stats
@@ -58,8 +56,8 @@
 
 ### 🎯 **Current Goals**
 
-- ☁️ Obtain **AWS Certifications**  
-- ⚙️ Explore and transition into **DevOps**  
+- ☁️ Obtain **Research Internships** for **Summer 2026**  
+- ⚙️ Explore and transition into **Cybersecurity**  
 - 🧠 Sharpen **DSA** skills and apply them in problem-solving and competitive coding
 
 ---
