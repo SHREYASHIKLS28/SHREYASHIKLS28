@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Shreyashi Deb Roy</h1>
-<h3 align="center">CSE Student | Web Developer | AI/ML Enthusiast | Cloud and DevOps Explorer</h3>
+<h3 align="center">CSE Student | AI/ML Enthusiast | Cybersecurity Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashidebroy&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashidebroy" />
